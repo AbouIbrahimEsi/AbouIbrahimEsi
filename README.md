@@ -2,7 +2,7 @@
 
 <p>Software engineer, and here are a few things I'm working on :</p>
 <ul>
-  <li>Currently learning Vert.x</li>
+  <li>Currently learning Microservices architecture patterns</li>
   <li>Passionate about writing readable and maintainable code </li>
   <li>Free time: Learning new tech and help others</li>
 </ul>
@@ -15,8 +15,8 @@ Tech stack
   <li>Languages: Java, PHP, C#</li>
   <li>Backend Frameworks: JakartaEE, Spring, Spring Boot, Vert.x</li>
   <li>Frontend Frameworks: Angular</li>
-  <li>Data base: PostgreSQL, MySQL, Oracle DB</li>
-  <li>VCS: Git, Git Flow, Github, Gitlab, Gitea,  Azure DevOps</li>
+  <li>Data base: PostgreSQL, MySQL, Oracle DB, MongoDB</li>
+  <li>VCS: Git, Git Flow, Github, Gitlab, Gitea, Azure DevOps</li>
   <li>OS: Windows, Linux</li>
 </ul>
 
